@@ -8,7 +8,7 @@ Criei este repositório para documentar minha jornada de resolução de problema
 
 ### Como usar este repositório
 
-Para usar este repositório, basta navegar pelas pastas para encontrar o problema que você está interessado. Cada pasta contém um arquivo `README` com uma descrição do problema, e uma implementação de código Java funcional. Você também pode encontrar o enunciado do problema e os casos de teste no site do LeetCode.
+Para usar este repositório, basta navegar pelas pastas para encontrar o problema que você está interessado. Cada pasta contém um arquivo com a solução do problema em uma implementação de código Java funcional. Você também pode encontrar o enunciado do problema.
 
 ### Contribuindo
 
